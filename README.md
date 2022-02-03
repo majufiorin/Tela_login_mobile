@@ -1,2 +1,2 @@
 # Tela_login_mobile
-Projeto DevClub realizado a partir de design no Figma.
+Projeto DevClub desenvolvido a partir de design no Figma.
